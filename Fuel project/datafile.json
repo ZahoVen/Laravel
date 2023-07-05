@@ -1,0 +1,77 @@
+{
+    "carInfo": {
+        "brand": "Dacia",
+        "model": "Logan",
+        "year": 2010,
+        "reservoir_volume": 50,
+        "fuel_type": "Diesel"
+    },
+    "refuel_events": [
+        {
+            "date": "2023-01-03",
+            "distance": "700",
+            "total_odo": 76930,
+            "fuel_quantity": "30",
+            "fuel_amount": "3.33",
+            "total_price": 99.9,
+            "gas_station_name": "Petrol",
+            "gas_station_product": "\u0411\u0435\u043d\u0437\u0438\u043d 95",
+            "driving_type": ""
+        },
+        {
+            "date": "2023-01-03",
+            "distance": "700",
+            "total_odo": 76930,
+            "fuel_quantity": "30",
+            "fuel_amount": "3.33",
+            "total_price": 99.9,
+            "gas_station_name": "Petrol",
+            "gas_station_product": "100 eXXtra Force",
+            "driving_type": ""
+        },
+        {
+            "date": "2023-01-03",
+            "distance": "700",
+            "total_odo": 76930,
+            "fuel_quantity": "30",
+            "fuel_amount": "3.33",
+            "total_price": 99.9,
+            "gas_station_name": "rompetrol",
+            "gas_station_product": "Max Motion Diesel",
+            "driving_type": ""
+        },
+        {
+            "date": "2023-01-03",
+            "distance": "700",
+            "total_odo": 76930,
+            "fuel_quantity": "30",
+            "fuel_amount": "3.33",
+            "total_price": 99.9,
+            "gas_station_name": "eko",
+            "gas_station_product": "Max Motion Diesel",
+            "driving_type": ""
+        },
+        {
+            "date": "2023-05-11",
+            "distance": "100",
+            "total_odo": 77030,
+            "fuel_quantity": "50",
+            "fuel_amount": "2.5",
+            "total_price": 125,
+            "gas_station_name": "omv",
+            "gas_station_product": "disel",
+            "driving_type": "city"
+        },
+        {
+            "date": "2023-05-18",
+            "distance": "500",
+            "total_odo": 77530,
+            "fuel_quantity": "50",
+            "fuel_amount": "2.5",
+            "total_price": 125,
+            "gas_station_name": "omv",
+            "gas_station_product": "disel",
+            "driving_type": "city"
+        }
+    ]
+}
